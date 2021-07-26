@@ -1,0 +1,15 @@
+{
+    "name": "Test It Now",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/collection/core-entity": true,
+        "/category/asset_value_tracking/core-token/name": "Test It Now",
+        "/category/asset_value_tracking/core-token/symbol": "TEST123",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "1000000"
+    }
+}
